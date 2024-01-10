@@ -23,10 +23,4 @@ print(bmi(weight,height))
 #Both Are Must Be Intergers 
 ```
 ---
-
-
-## Special Thanks
-
-[Fayas Noushad](https://github.com/FayasNoushad) & [Lokaman](https://github.com/lntechnical2) For Helping Me
-
----
+Thank you!! 
